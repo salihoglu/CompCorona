@@ -3,7 +3,7 @@ library("FactoMineR")
 library("dplyr")
 library("plotly")
 
-clean_data <- read.csv("/home/rana/Documents/STAR_PROJECT_28_06/star/new_analysis/all_type_for_pca.csv")
+clean_data <- read.csv("all_type_for_pca.csv")
 
 
 # Select relevant columns
